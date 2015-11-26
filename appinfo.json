@@ -1,18 +1,41 @@
 {
-  "uuid": "ee92001f-6a78-4758-a162-349c395576b9",
-  "shortName": "KyleWxWatch2",
-  "longName": "KyleWxWatch2",
-  "companyName": "MakeAwesomeHappen",
-  "versionLabel": "1.0",
-  "sdkVersion": "3",
-  "targetPlatforms": ["aplite", "basalt", "chalk"],
-  "watchapp": {
-    "watchface": false
-  },
-  "appKeys": {
-    "dummy": 0
-  },
-  "resources": {
-    "media": []
-  }
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "longName": "KyleWxWatch2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/DejaVuSans-Bold.ttf",
+                "name": "FONT_DEJAVU_SANS_BOLD_10",
+                "type": "font"
+            },
+            {
+                "file": "fonts/DejaVuSans-Bold.ttf",
+                "name": "FONT_DEJAVU_SANS_BOLD_32",
+                "type": "font"
+            },
+            {
+                "file": "fonts/DejaVuSans.ttf",
+                "name": "FONT_DEJAVU_SANS_38",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "KyleWxWatch2",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "ee92001f-6a78-4758-a162-349c395576b9",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
 }
