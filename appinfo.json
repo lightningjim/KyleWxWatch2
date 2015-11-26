@@ -1,0 +1,18 @@
+{
+  "uuid": "ee92001f-6a78-4758-a162-349c395576b9",
+  "shortName": "KyleWxWatch2",
+  "longName": "KyleWxWatch2",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
